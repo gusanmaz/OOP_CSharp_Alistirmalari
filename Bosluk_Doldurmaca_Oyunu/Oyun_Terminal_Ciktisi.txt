@@ -1,0 +1,258 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1. Oyun:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Oyun tahtasinin uzunlugunu giriniz.
+10
+Oyun tahtasina rastgele dagitilmasini istediginiz piyon sayisini giriniz
+5
+Ilk oyuncunun ismini giriniz
+Ahmet
+Ikinci oyuncunun ismini giriniz
+Ayse
+Oyun tahtasi olusturuldu! Oyun tahtasinin gorunumu:
+A*B**CD*E*
+Ahmet'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+B
+B piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Ahmet B piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+AB***CD*E*
+Ayse'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+C
+C piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+5
+Oyun tahtasindaki B piyonunun konumu, 5 piyonunun 5 birim 'sola kaydirilmasina engel teskil ediyor!
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+C
+C piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+2
+Ayse C piyonunu 2 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+AB*C**D*E*
+Ahmet'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+E
+E piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Ahmet E piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+AB*C**DE**
+Ayse'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+D
+D piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+2
+Ayse D piyonunu 2 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+AB*CD**E**
+Ahmet'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+A
+A piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+3
+A piyonunu tahtanin disina kaydirmazsiniz!
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+E
+E piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+2
+Ahmet E piyonunu 2 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+AB*CDE****
+Ayse'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+C
+C piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Ayse C piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABC*DE****
+Ahmet'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+D
+D piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Ahmet D piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABCD*E****
+Ayse'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+E
+E piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Ayse E piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABCDE*****
+Oyun bitti! Ayse oyunu kazandi! Tebrikler!
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!2. Oyun:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Oyun tahtasinin uzunlugunu giriniz.
+13
+Oyun tahtasina rastgele dagitilmasini istediginiz piyon sayisini giriniz
+7
+Ilk oyuncunun ismini giriniz
+Joe
+Ikinci oyuncunun ismini giriniz
+Jane
+Oyun tahtasi olusturuldu! Oyun tahtasinin gorunumu:
+ABC*D**E*FG**
+Joe'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+E
+E piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+4
+Oyun tahtasindaki D piyonunun konumu, 7 piyonunun 4 birim 'sola kaydirilmasina engel teskil ediyor!
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+E
+E piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+3
+Oyun tahtasindaki D piyonunun konumu, 7 piyonunun 3 birim 'sola kaydirilmasina engel teskil ediyor!
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+E
+E piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+2
+Joe E piyonunu 2 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABC*DE***FG**
+Jane'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+F
+F piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+3
+Jane F piyonunu 3 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABC*DEF***G**
+Joe'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+D
+D piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Joe D piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABCD*EF***G**
+Jane'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+A
+A piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+3
+A piyonunu tahtanin disina kaydirmazsiniz!
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+E
+E piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Jane E piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABCDE*F***G**
+Joe'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+F
+F piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Joe F piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABCDEF****G**
+Jane'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+G
+G piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+2
+Jane G piyonunu 2 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABCDEF**G****
+Joe'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+G
+G piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Joe G piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABCDEF*G*****
+Jane'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+G
+G piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Jane G piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+ABCDEFG******
+Oyun bitti! Jane oyunu kazandi! Tebrikler!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3. Oyun:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Oyun tahtasinin uzunlugunu giriniz.
+20
+Oyun tahtasina rastgele dagitilmasini istediginiz piyon sayisini giriniz
+12
+Ilk oyuncunun ismini giriniz
+Emre
+Ikinci oyuncunun ismini giriniz
+Tugce
+Oyun tahtasi olusturuldu! Oyun tahtasinin gorunumu:
+**ABCDEFGH*IJK***L**
+Emre'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+B
+B piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+4
+B piyonunu tahtanin disina kaydirmazsiniz!
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+I
+I piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Emre I piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+**ABCDEFGHI*JK***L**
+Tugce'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+K
+K piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+2
+Oyun tahtasindaki J piyonunun konumu, 13 piyonunun 2 birim 'sola kaydirilmasina engel teskil ediyor!
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+J
+J piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Tugce J piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+**ABCDEFGHIJ*K***L**
+Emre'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+L
+L piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+5
+Oyun tahtasindaki K piyonunun konumu, 17 piyonunun 5 birim 'sola kaydirilmasina engel teskil ediyor!
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+L
+L piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+2
+Emre L piyonunu 2 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+**ABCDEFGHIJ*K*L****
+Tugce'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+L
+L piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Tugce L piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+**ABCDEFGHIJ*KL*****
+Emre'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+K
+K piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Emre K piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+**ABCDEFGHIJK*L*****
+Tugce'in hamlesi bekleniyor
+Sola hareket ettirmek istediginiz piyonun sembolunu giriniz.
+L
+L piyonunu kac adim sola hareket ettirmek istediginiz giriniz.
+1
+Tugce L piyonunu 1 adim sola hareket ettirdi.
+Oyun tahtasinin yeni hali:
+**ABCDEFGHIJKL******
+Oyun bitti! Tugce oyunu kazandi! Tebrikler!
